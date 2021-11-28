@@ -7,4 +7,4 @@ The [Powerpoint Presentation](ElasticSearch%20ML.pptx) has the slides I used dur
 
 Sample code is [here](elasticsearch_ml.py)
 
-With some background information on data basic cleaning [here](cleaning.py)
+Some background information on data basic cleaning is [here](cleaning.py)
