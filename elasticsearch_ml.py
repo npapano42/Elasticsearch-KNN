@@ -106,11 +106,11 @@ def elasticsearch_query(tokens, k=10):
 
 if __name__ == '__main__':
     # print("k = 10")
-    # learning(["Stuff"])
+    # elasticsearch_query(["Stuff"])
     # print("k = 25")
-    # learning(["Stuff"], k=25)
+    # elasticsearch_query(["Stuff"], k=25)
     # print("k = 40")
-    # learning(["Stuff"], k=40)
+    # elasticsearch_query(["Stuff"], k=40)
 
     kickstarter_desc = "The Sailors Compass, in brass, is a navigational tool created for the boldest of explorers" \
                        "A technical aid whose visual balance remains true to its aesthetic heritage "
